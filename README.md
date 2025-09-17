@@ -26,6 +26,3 @@ Take a guess: 23
 Too low!
 Take a guess: 30
 🎉 Congratulations! You guessed it!
-
-## ▶️ Run the Game
-python "guessthenumber.py"
