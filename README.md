@@ -12,10 +12,13 @@ The program gives hints if your guess is too high or too low until you find the 
 
 ## 🛠️ Requirements
 - Python 3  
-- `random` module (built-in)  
+- `random` module (built-in)
+
+## ▶️ Run the Game
+python "guessthenumber.py"
 
 ## Example
-Welcome to Guess the Number!
+```Welcome to Guess the Number!
 I'm thinking of a number between 1 and 100.
 Take a guess: 45
 Too high!
