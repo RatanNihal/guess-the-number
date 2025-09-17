@@ -15,7 +15,7 @@ The program gives hints if your guess is too high or too low until you find the 
 - `random` module (built-in)  
 
 ## ▶️ Run the Game
-```bash
+cmd
 python "guessthenumber.py"
 
 # Example
